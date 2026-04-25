@@ -49,11 +49,11 @@ Monitor performance, identify trends, and support strategic discussions.
 
 ## 🛠 Technical Skills
  ➤ Writing complex SQL queries (CTEs, Joins, Subqueries, Window Functions)  
- ➤ Data extraction and transformation using SQL  
+ ➤ Data extraction and filtering using SQL (WHERE, HAVING, conditional logic)
+ ➤ Data aggregation and grouping (GROUP BY, aggregate functions like SUM, AVG, COUNT)  
+ ➤ Data transformation and manipulation for analysis  
  ➤ Data modeling and transformation using Power Query  
- ➤ Creating calculated measures using DAX  
  ➤ Building interactive dashboards in Power BI  
- ➤ Data cleaning and preprocessing  
  
 ## 🌟 Soft Skills
  ➤ Strong analytical and problem-solving mindset  
