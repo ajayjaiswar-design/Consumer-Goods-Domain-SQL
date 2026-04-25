@@ -75,5 +75,5 @@ Monitor performance, identify trends, and support strategic discussions.
  ➤ Storytelling enhances the impact of analysis  
 
 ## 🔗 Project Links
-📥 Project Presentation Deck: [Download Here](https://github.com/ajayjaiswar-design/Consumer-Goods-Domain-SQL/blob/main/AtliQ-Hardwares-Data-Analytics-Project-Presentation.pptx)  
+📥 Project Presentation Deck: [Download Here](./AtliQ-Hardwares-Data-Analytics-Project-Presentation.pptx)  
 🎥 Video Presentation: [Watch](https://www.youtube.com/watch?v=FXIh4WKv9eU)  
